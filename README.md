@@ -1,0 +1,1 @@
+Este repositório contém os dados suplementares, protocolos de prompts de IA e matrizes de análise que suportam os resultados do artigo 'Dimensões do Letramento Algorítmico: Da Lógica Matemática à Crítica Social' (2025).
